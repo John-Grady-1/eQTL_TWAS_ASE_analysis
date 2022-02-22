@@ -10,6 +10,10 @@ This repository contains scripts required to perform an expression quantitative 
 - _FastQTL_
 - _PLINK_
 
+## Required datasets
+1. RNA-seq data
+2. Genotype data
+3. Genome wide assocation studies summary statistics / individual level data
 
 ## Preprocessing of RNA-seq reads
 Note: All of the preprocessing steps in RNA-seq can be implemented using the python script
