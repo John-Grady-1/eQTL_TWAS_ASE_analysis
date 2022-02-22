@@ -23,3 +23,7 @@ The first step invovled in this type of analysis involves an assessment of the t
 DEA analysis will be carried out using _DESeq2_ in _R_
 
 ## Preprocessing of SNP/genotype data
+
+## eQTL analysis
+
+## TWAS analysis
